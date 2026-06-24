@@ -20,7 +20,7 @@
 ```python
 sneha = {
     "role"        : ["Business Analyst", "Data Analyst"],
-    "currently"   : "MBA Business Analytics @ Medi-Caps University (2026)",
+    "currently"   : "MBA Business Analytics @ Medi-Caps University ✅ Graduated 2026",
     "experience"  : "Business Analytics Intern @ CARS24 — 78K+ records, SQL, Tableau",
     "origin_story": "Started in journalism. Discovered data tells better stories.",
     "superpower"  : "Asking the question behind the question",
@@ -148,7 +148,7 @@ Mapped audio features across **100K+ tracks** to identify patterns in how top ar
 
 ## 🔭 Currently
 
-- 📌 Finishing my **MBA in Business Analytics** (graduating May 2026)
+- 🎓 **MBA in Business Analytics** — Medi-Caps University, graduated 2026
 - 🛠️ Building out this GitHub with end-to-end analytics projects
 - 📖 Deepening skills in **advanced SQL**, **DAX**, and **ML-driven reporting**
 - 🎯 Actively looking for a **Data / Business Analyst** role — open to all formats across India
